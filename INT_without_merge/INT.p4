@@ -1,5 +1,4 @@
 /* -*- P4_16 -*- */
-// implement INT without using array int_md[MAX_HOPS]
 
 #include <core.p4>
 #include <tna.p4>
